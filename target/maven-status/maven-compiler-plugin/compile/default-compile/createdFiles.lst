@@ -1,2 +1,4 @@
+com\examen\pagosservice\model\Pago.class
 com\examen\pagosservice\controller\PagosController.class
 com\examen\pagosservice\PagosServiceApplication.class
+com\examen\pagosservice\repository\PagoRepository.class
